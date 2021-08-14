@@ -32,3 +32,11 @@
   distribution of attribute values in the input data. 
 
 ## Outliers in input data can skew mislead the training process of machine leaning algorithms. 
+
+# Types of outliers 
+
+	Univariate Outliers 
+	Univariate Outliers are the points which are beyond the normal values in a single variable.
+	Bivariate Outliers
+	Bivariate Outliers are the points which lie far from the expected values when two variables are plotted each other.
+
